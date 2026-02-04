@@ -1,4 +1,6 @@
-## Hi there 👋
+## こんにちは、バイナリークロ です！ 👋
+私はプログラミングを勉強中の学習者です。 
+新しい技術を学ぶことが大好きです。よろしくお願いします！
 
 <!--
 **BinaryKuro/BinaryKuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
